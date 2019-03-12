@@ -123,7 +123,7 @@
         <module>extendedset</module>
         <module>hll</module>
         <!-- Core extensions -->
-        <module>extensions-core/avro-extensions</module>
+        <!-- <module>extensions-core/avro-extensions</module> -->
         <module>extensions-core/datasketches</module>
         <module>extensions-core/druid-bloom-filter</module>
         <module>extensions-core/druid-kerberos</module>
@@ -151,14 +151,14 @@
         <module>extensions-contrib/kafka-eight-simpleConsumer</module>
         <module>extensions-contrib/rabbitmq</module>
         <module>extensions-contrib/distinctcount</module>
-        <module>extensions-contrib/parquet-extensions</module>
+        <!-- <module>extensions-contrib/parquet-extensions</module> -->
         <module>extensions-contrib/statsd-emitter</module>
         <module>extensions-contrib/orc-extensions</module>
         <module>extensions-contrib/time-min-max</module>
         <module>extensions-contrib/google-extensions</module>
         <module>extensions-contrib/virtual-columns</module>
         <module>extensions-contrib/thrift-extensions</module>
-        <module>extensions-contrib/ambari-metrics-emitter</module>
+        <!-- <module>extensions-contrib/ambari-metrics-emitter</module> -->
         <module>extensions-contrib/sqlserver-metadata-storage</module>
         <module>extensions-contrib/kafka-emitter</module>
         <module>extensions-contrib/redis-cache</module>
